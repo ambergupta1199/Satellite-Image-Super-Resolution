@@ -1,4 +1,4 @@
-### Group Project(Course CS5546 - Introduction to Agriculture Cyber Physical Systems)
+### Group Project-(Course CS5546 - Introduction to Agriculture Cyber Physical Systems)- Total Members: 4
 - My role is to train ESRGAN model on our dataset and compare the super-reolved image with high resolution ground truth image using evaluation metrics like PSNR, SSIM.
 - I also worked on classification of Satellite images both low resolution and high resolution based on their NDVI(Normalized Difference Vegetation Index) value and then used these images as dataset for Trained ESRGAN model to see which type of vegetation provides good result on which model.
 # 🌍 Satellite Image Super-Resolution
